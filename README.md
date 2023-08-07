@@ -1,5 +1,5 @@
 # RoboticProject
-![Screenshot 2023-08-07 214856](https://github.com/TanNguyen2812/RoboticProject/assets/141646071/3e257150-b705-42e9-b728-673108e4aa90)
+![Screenshot 2023-08-07 214856](https://github.com/TanNguyen2812/RoboticProject/assets/141646071/3b33a830-e266-4781-8237-5cb4432f8f56)
 
 
 I used Matlab to simulate Openmanipulator X robot (4 DOF) without any simulink tools. 
